@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;500;700&display=swap');
+html,
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: poppins;
+    position: absolute;
+    /* background-color: #71797E; */
+}
+.talk{
+    
+}
+
+.title{
+    position: fixed;
+    position: absolute;
+    top: 10%;
+    left: 6%;
+    font-size: 20mm;
+    line-height: .5;
+    letter-spacing: 1mm;
+   
+}
+.kev{
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to right, #f32170,#ff6b08, #cf23cf, #eedd44);
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text;
+}
+.para{
+    position: fixed;
+    position: absolute;
+    padding: 1mm;
+    top: 45%;
+    left: 6%;
+    font-size: 5mm;
+    letter-spacing: 1mm;
+    color: white;
+}
+
+
+
